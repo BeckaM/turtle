@@ -1,0 +1,11 @@
+C:\Users\Administrator\Source\Repos\trams\trams\bin\Debug\netcoreapp3.0\trams.exe
+C:\Users\Administrator\Source\Repos\trams\trams\bin\Debug\netcoreapp3.0\trams.deps.json
+C:\Users\Administrator\Source\Repos\trams\trams\bin\Debug\netcoreapp3.0\trams.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\trams\trams\bin\Debug\netcoreapp3.0\trams.runtimeconfig.dev.json
+C:\Users\Administrator\Source\Repos\trams\trams\bin\Debug\netcoreapp3.0\trams.dll
+C:\Users\Administrator\Source\Repos\trams\trams\bin\Debug\netcoreapp3.0\trams.pdb
+C:\Users\Administrator\Source\Repos\trams\trams\obj\Debug\netcoreapp3.0\trams.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\trams\trams\obj\Debug\netcoreapp3.0\trams.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\trams\trams\obj\Debug\netcoreapp3.0\trams.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\trams\trams\obj\Debug\netcoreapp3.0\trams.dll
+C:\Users\Administrator\Source\Repos\trams\trams\obj\Debug\netcoreapp3.0\trams.pdb
